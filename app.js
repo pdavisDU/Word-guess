@@ -5,6 +5,7 @@ var wordArray = [
   "loop",
   "object",
   "boolean",
+  "API",
 ];
 
 var wordInput = document.querySelector("#word");
